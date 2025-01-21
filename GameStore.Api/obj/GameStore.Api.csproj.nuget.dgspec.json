@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fikre\\Desktop\\GameStore\\GameStore.api\\GameStore.Api.csproj": {}
+    "c:\\Users\\fikre\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fikre\\Desktop\\GameStore\\GameStore.api\\GameStore.Api.csproj": {
+    "c:\\Users\\fikre\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fikre\\Desktop\\GameStore\\GameStore.api\\GameStore.Api.csproj",
+        "projectUniqueName": "c:\\Users\\fikre\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "C:\\Users\\fikre\\Desktop\\GameStore\\GameStore.api\\GameStore.Api.csproj",
+        "projectPath": "c:\\Users\\fikre\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\fikre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fikre\\Desktop\\GameStore\\GameStore.api\\obj\\",
+        "outputPath": "c:\\Users\\fikre\\Desktop\\GameStore\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fikre\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,6 +44,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
             "MinimalApis.Extensions": {
               "target": "Package",
               "version": "[0.11.0, )"
