@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\fikre\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
+    "C:\\Users\\fikre\\Desktop\\GameStore\\GameStore.api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\fikre\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
+    "C:\\Users\\fikre\\Desktop\\GameStore\\GameStore.api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\fikre\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+        "projectUniqueName": "C:\\Users\\fikre\\Desktop\\GameStore\\GameStore.api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "c:\\Users\\fikre\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+        "projectPath": "C:\\Users\\fikre\\Desktop\\GameStore\\GameStore.api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\fikre\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\fikre\\Desktop\\GameStore\\GameStore.Api\\obj\\",
+        "outputPath": "C:\\Users\\fikre\\Desktop\\GameStore\\GameStore.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fikre\\AppData\\Roaming\\NuGet\\NuGet.Config"
